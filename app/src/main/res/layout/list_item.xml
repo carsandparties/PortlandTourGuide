@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:id="@+id/text_container"
+    android:background="@color/restaurantsbackground"
+    android:padding="@dimen/activity_margin"
+    >
+
+    <ImageView
+        android:layout_width="@dimen/imagewidthheight"
+        android:layout_height="@dimen/imagewidthheight"
+        android:src="@drawable/laurelhurst"
+        android:id="@+id/image"
+        android:paddingBottom="@dimen/image_margin"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/location"
+        tools:text="@string/laurelhurst"
+        android:textStyle="bold"
+        android:textColor="@color/textColor"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/address"
+        tools:text="@string/address1"
+        android:textColor="@color/textColor"/>
+
+</LinearLayout>

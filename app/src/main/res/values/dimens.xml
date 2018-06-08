@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="image_margin">8dp</dimen>
+    <dimen name="imagewidthheight">88dp</dimen>
+</resources>

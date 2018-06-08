@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#02C1EE</color>
+    <color name="colorPrimaryDark">#EE2D02</color>
+
+    <color name="parksbackground">#FF5B89</color>
+    <color name="restaurantsbackground">#FF7E5B</color>
+    <color name="nightlifebackground">#7086F5</color>
+    <color name="shoppingbackground">#F4ED6D</color>
+
+    <color name="textColor">#000000</color>
+
+
+</resources>

@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">PortlandTourGuide</string>
+
+    <!-- List of fragments -->
+    <string name="parks">Parks</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="nightlife">Nightlife</string>
+    <string name="shopping">Shopping</string>
+
+    <!-- List of 12 parks for ParksFragment -->
+    <string name="laurelhurst">Laurelhurst Park</string>
+    <string name="address1">SE Cesar Chavez &amp; Stark St</string>
+    <string name="washington">Washington Park</string>
+    <string name="address2">2760, 4033 SW Canyon Rd</string>
+    <string name="millends">Mill Ends Park</string>
+    <string name="address3">56 SW Taylor St</string>
+    <string name="marquam">Marquam Nature Park</string>
+    <string name="address4">SW Marquam St</string>
+    <string name="peninsula">Peninsula Park Rose Garden</string>
+    <string name="address5">700 N Rosa Parks Way</string>
+    <string name="overlook">Overlook Park</string>
+    <string name="address6">1599 N Fremont St</string>
+    <string name="tanner">Tanner Springs Park</string>
+    <string name="address7">NW 10th Ave &amp; Marshall St</string>
+    <string name="scott">Mount Scott Park</string>
+    <string name="address8">SE 72nd Ave &amp; SE Harold St</string>
+    <string name="sellwood">Sellwood Riverfront Park</string>
+    <string name="address9">1212 SE Spokane St</string>
+    <string name="alberta">Alberta Park</string>
+    <string name="address10">1905 NE Killingsworth</string>
+    <string name="woodstock">Woodstock Park</string>
+    <string name="address11">SE 47th Ave &amp; Steele St</string>
+    <string name="wallace">Wallace Park</string>
+    <string name="address12">1516 NW 25th Ave</string>
+
+    <!-- List of 12 restaurants for RestaurantsFragment -->
+    <string name="otg">Off The Griddle</string>
+    <string name="address13">6526 SE Foster Rd</string>
+    <string name="brunchbox">Brunch Box</string>
+    <string name="address14">620 SW 9th Ave</string>
+    <string name="pokpok">Pok Pok</string>
+    <string name="address15">3226 SE Division St</string>
+    <string name="schmizza">Pizza Schmizza</string>
+    <string name="address16">512 SW Taylor St</string>
+    <string name="lotus">Blossoming Lotus</string>
+    <string name="address17">1713 NE 15th Ave</string>
+    <string name="bunk">Bunk Sandwiches</string>
+    <string name="address18">211 SW 6th Ave</string>
+    <string name="hubers">Huber\'s Cafe</string>
+    <string name="address19">411 SW 3rd Ave</string>
+    <string name="paradox">Paradox Organic Cafe</string>
+    <string name="address20">3439 SE Belmont St</string>
+    <string name="pinestate">Pine State Biscuits</string>
+    <string name="address21">2204 NE Alberta St</string>
+    <string name="burgerville">Burgerville</string>
+    <string name="address22">1122 SE Hawthorne Blvd</string>
+    <string name="saltstraw">Salt and Straw</string>
+    <string name="address23">838 NW 23rd Ave</string>
+    <string name="potatochamp">Potato Champion</string>
+    <string name="address24">1207 SE Hawthorne Blvd</string>
+
+    <!-- List of 12 nightlife spots for NightlifeFragment -->
+    <string name="yamhill">Yamhill Pub</string>
+    <string name="address25">223 SW Yamhill St</string>
+    <string name="golddust">Gold Dust Meridian</string>
+    <string name="address26">3267 SE Hawthorne Blvd</string>
+    <string name="lovecraft">The Lovecraft Bar</string>
+    <string name="address27">421 SE Grand Ave</string>
+    <string name="tube">Tube</string>
+    <string name="address28">18 NW 3rd Ave</string>
+    <string name="laurelthirst">Laurelthirst Public House</string>
+    <string name="address29">2958 NE Glisan St</string>
+    <string name="myfathersplace">My Father\'s Place</string>
+    <string name="address30">523 SE Grand Ave</string>
+    <string name="thenest">The Nest</string>
+    <string name="address31">2715 SE Belmont St</string>
+    <string name="tanker">Tanker Bar</string>
+    <string name="address32">4825 SE Hawthorne Blvd</string>
+    <string name="spaceroom">Spaceroom Lounge</string>
+    <string name="address33">4800 SE Hawthorne Blvd</string>
+    <string name="groundkontrol">Ground Kontrol</string>
+    <string name="address34">115 NW 5th Ave</string>
+    <string name="slingshot">Slingshot Lounge</string>
+    <string name="address35">5532 SE Center St</string>
+    <string name="hungrytiger">Hungry Tiger</string>
+    <string name="address36">213 SE 12th Ave</string>
+
+    <!-- List of 12 stores for ShoppingFragment-->
+    <string name="funkparlor">The Funk Parlor</string>
+    <string name="address37">1603 NE Alberta St</string>
+    <string name="redfox">Red Fox Vintage</string>
+    <string name="address38">4528 SE Woodstock Blvd</string>
+    <string name="saturdaymkt">Portland Saturday Market</string>
+    <string name="address39">2 SW Naito Pkwy</string>
+    <string name="pioneer">Pioneer Place</string>
+    <string name="address40">700 SW 5th Ave</string>
+    <string name="flutter">Flutter</string>
+    <string name="address41">3948 N Mississippi Ave</string>
+    <string name="portlandgear">Portland Gear</string>
+    <string name="address42">627 SW 19th Ave</string>
+    <string name="cascade">Cascade Station</string>
+    <string name="address43">9721 NE Cascades Pkwy</string>
+    <string name="washingtonsquare">Washington Square</string>
+    <string name="address44">9585 SW Washington Square Rd</string>
+    <string name="jantzen">Jantzen Beach Center</string>
+    <string name="address45">1405 Jantzen Beach Center</string>
+    <string name="fubonn">Fubonn Shopping Ctr</string>
+    <string name="address46">2850 SE 82nd Ave</string>
+    <string name="presents">Presents of Mind</string>
+    <string name="address47">3633 SE Hawthorne Blvd</string>
+    <string name="lloyd">Lloyd Center</string>
+    <string name="address48">2201 Lloyd Center</string>
+
+</resources>
